@@ -1,2 +1,3 @@
 # hello-world
-practise1
+
+Jeg bor i Kristiansand og er en gutt på 20 år
